@@ -15,7 +15,11 @@ this is tirupathi
 
 this is tirupathi
 >>>>>>> linux
+<<<<<<< HEAD
 >>>>>>> banana
+=======
+>>>>>>> 0d350acb1b461d8fce8fdde44a24e39980215917
+>>>>>>> cbaa67d4792a1a1c0bd28365275e0fa061e81d94
 
 
 thi is windows file to use it
