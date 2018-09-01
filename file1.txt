@@ -1,6 +1,12 @@
  HI ALL
 THIS IS GIT AND DEMO FILE USING TO THE CLINET
+<<<<<<< HEAD
 ************************************************
+=======
+************************************************8
+
+this is tirupathi
+>>>>>>> linux
 
 
 thi is windows file to use it
