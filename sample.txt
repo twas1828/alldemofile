@@ -1,4 +1,1 @@
- hi monish
-how r u 
-
-this is new verison release
+THIS IS FIREST RELEASE NOTES FOR GIT
